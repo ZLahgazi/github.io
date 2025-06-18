@@ -13,7 +13,7 @@
 title: Zak's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Zak Lahgazi-Alaoui
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - How I made this website; Beautiful Jekyll: "https://beautifuljekyll.com"
+  Author's home: "https://zlahgazi.github.io/"
 
 ################
 # --- Logo --- #
